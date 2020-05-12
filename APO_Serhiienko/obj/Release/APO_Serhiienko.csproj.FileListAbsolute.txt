@@ -1,0 +1,17 @@
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\obj\Release\APO_Serhiienko.csprojAssemblyReference.cache
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\obj\Release\APO_Serhiienko.Form1.resources
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\obj\Release\APO_Serhiienko.Properties.Resources.resources
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\obj\Release\APO_Serhiienko.csproj.GenerateResource.cache
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\obj\Release\APO_Serhiienko.csproj.CoreCompileInputs.cache
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\bin\Release\APO_Serhiienko.exe.config
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\bin\Release\APO_Serhiienko.exe
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\bin\Release\APO_Serhiienko.pdb
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\bin\Release\AForge.dll
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\bin\Release\AForge.Imaging.dll
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\bin\Release\AForge.Math.dll
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\bin\Release\AForge.xml
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\bin\Release\AForge.Imaging.xml
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\bin\Release\AForge.Math.xml
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\obj\Release\APO_Serhiienko.csproj.CopyComplete
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\obj\Release\APO_Serhiienko.exe
+E:\Learning(WIT)\C#\POB\lab2\APO_Serhiienko\APO_Serhiienko\obj\Release\APO_Serhiienko.pdb
