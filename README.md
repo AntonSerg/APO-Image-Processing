@@ -1,4 +1,4 @@
-# APO_Serhiienko
+# APO_Image_Processing
  Program do przetwarzania obrazu, funkcjonalność:  
  - Tworzenie Histogramu
  - Rozciąganie histogramu
